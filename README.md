@@ -1,0 +1,1 @@
+#Project Hệ hộ trợ quyết định Sử dụng data mining Association để đưa ra dự đoán về xu hướng mua sắm thực hiện với bộ dữ liệu Customer Shopping Trend, ứng dụng thuật toán để thực hiện recommendation stystem hệ thống gợi ý phim
