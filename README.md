@@ -1,4 +1,4 @@
-# Project: HỆ THỐ TRỢ QUYẾT ĐỊNH -GVHD: TS.Lê Hải Hà
+# Project: HỆ HỖ TRỢ QUYẾT ĐỊNH -GVHD: TS.Lê Hải Hà
 
 ## Mô tả Dự Án
 
